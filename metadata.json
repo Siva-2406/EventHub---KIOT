@@ -1,0 +1,6 @@
+{
+  "name": "EventHub - College Event Discovery & Management Platform",
+  "description": "Every College Event. One Place. Discover college events, register instantly, manage personal schedule, get smart reminders, and explore verified events from KIOT and partner colleges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
